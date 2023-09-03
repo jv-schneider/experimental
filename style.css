@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(to right, #29235c, #e71d73);
+}
+#startButton {
+  background-color: #662483;
+  border-color: white;
+  padding: 25px;
+}
+canvas {
+  border: 2px solid white;
+}
