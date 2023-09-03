@@ -1,0 +1,12 @@
+#greenDiv {
+  width: 150px;
+  height: 150px;
+  background-color: green;
+  position: relative;
+}
+#redDiv {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  position: relative;
+}
